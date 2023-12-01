@@ -1,1 +1,2 @@
-window.alert("Hellow JS");
+// window.alert("Hellow JS");
+document.getElementById("demo").innerHTML = "hello ahmed"
