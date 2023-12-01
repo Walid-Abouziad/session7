@@ -1,1 +1,1 @@
-windows.alert("Hellow JS");
+window.alert("Hellow JS");
