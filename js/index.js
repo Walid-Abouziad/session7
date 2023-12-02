@@ -1,5 +1,5 @@
 // window.alert("Hellow JS");
-document.getElementById("demo").innerHTML = "hello ahmed"
+// document.getElementById("demo").innerHTML = "hello ahmed"
 // var userName = "ahmed Menisy"
 // var userName;
 // userName = "Ahmed Bahmsy";
@@ -110,3 +110,9 @@ for (var i=5 ; i < 10 ; i++) {
 for (var i=5 ; i < 10 ; i+=2) {
     console.log(i);
 }
+
+var cartona = "";
+for(var i=0 ; i<1000 ; i++){
+    cartona +="<li>hamada</li>";
+}
+document.getElementById("demo").innerHTML = cartona;
